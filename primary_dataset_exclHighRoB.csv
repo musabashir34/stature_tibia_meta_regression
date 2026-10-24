@@ -1,0 +1,59 @@
+model,author_sex,year,ethnicity,sex_field,sex_cat,N,b,SEb,RoB_Domain4,country,continent,age_lower17
+1,Duyar,2003,Turkish,Male-only,Male,121,2.738,0.1194,Low RoB,Turkey,Europe,FALSE
+3,Bhavna (F),2008,"Indian (Shia Muslim, Delhi)",Female-only,Female,508,2.34,0.1011,Unclear,India,South Asia,FALSE
+4,Kaore (M),2012,"Indian (Raichur, Karnataka region)",Male-only,Male,200,1.836,0.0985,Low RoB,India,South Asia,FALSE
+5,Kaore (F),2012,"Indian (Raichur, Karnataka region)",Female-only,Female,200,1.678,0.1094,Low RoB,India,South Asia,FALSE
+8,Trivedi (M),2014,"Indian (Gwalior, Madhya Pradesh)",Male-only,Male,270,1.53,0.1939,Low RoB,India,South Asia,FALSE
+9,Trivedi (F),2014,"Indian (Gwalior, Madhya Pradesh)",Female-only,Female,270,1.43,0.116,Low RoB,India,South Asia,FALSE
+10,Gupta,2014,"Indian (North Indian, Kanpur, Uttar Pradesh)",Male-only,Male,150,2.37,0.1718,Low RoB,India,South Asia,FALSE
+11,Sah (M),2014,Nepalese (Birgunj),Male-only,Male,150,2.027,0.2452,Low RoB,Nepal,South Asia,FALSE
+12,Sah (F),2014,Nepalese (Birgunj),Female-only,Female,150,2.253,0.1837,Low RoB,Nepal,South Asia,FALSE
+16,Chandravadiya (M),2013,"Indian (Gujarati, Bhavnagar)",Male-only,Male,110,2.548,0.1609,Low RoB,India,South Asia,FALSE
+17,Chandravadiya (F),2013,"Indian (Gujarati, Bhavnagar)",Female-only,Female,100,2.258,0.2393,Low RoB,India,South Asia,FALSE
+18,Jaiswal (M),2013,"Santhal (scheduled tribe, Odisha, India)",Male-only,Male,205,2.05,0.1308,Unclear,India,South Asia,FALSE
+19,Jaiswal (F),2013,"Santhal (scheduled tribe, Odisha, India)",Female-only,Female,111,2.312,0.1719,Unclear,India,South Asia,FALSE
+22,Khatun (M),2016,"Indian (Moradabad, Uttar Pradesh)",Male-only,Male,200,2.75,0.116,Low RoB,India,South Asia,TRUE
+23,Khatun (F),2016,"Indian (Moradabad, Uttar Pradesh)",Female-only,Female,200,2.88,0.1268,Low RoB,India,South Asia,TRUE
+24,Saiyed (M),2016,"Indian (Gujarati, Ahmedabad) - NOTE: same city/institution as Algotar et al 2014 in this review; likely overlapping source population though separate study/cohort",Male-only,Male,116,1.66,0.1371,Low RoB,India,South Asia,TRUE
+25,Saiyed (F),2016,"Indian (Gujarati, Ahmedabad) - NOTE: same city/institution as Algotar et al 2014 in this review; likely overlapping source population though separate study/cohort",Female-only,Female,84,2.31,0.198,Low RoB,India,South Asia,TRUE
+26,Esomonu (M),2016,"Bekwara (Nigerian ethnic group, Cross River State)",Male-only,Male,300,5.289,0.4474,Low RoB,Nigeria,Sub-Saharan Africa,FALSE
+27,Esomonu (F),2016,"Bekwara (Nigerian ethnic group, Cross River State)",Female-only,Female,300,4.23,0.4166,Low RoB,Nigeria,Sub-Saharan Africa,FALSE
+28,Joshi (M),2016,"Indian (Punjabi, Malwa region)",Male-only,Male,150,2.26,0.119,Low RoB,India,South Asia,FALSE
+29,Joshi (F),2016,"Indian (Punjabi, Malwa region)",Female-only,Female,150,1.647,0.1256,Low RoB,India,South Asia,FALSE
+30,Banerjee (M),2015,"Indian (Bengali, southern West Bengal)",Male-only,Male,50,2.575,0.1515,Low RoB,India,South Asia,FALSE
+31,Banerjee (F),2015,"Indian (Bengali, southern West Bengal)",Female-only,Female,50,2.691,0.1304,Low RoB,India,South Asia,FALSE
+34,Gualdi-Russo (M),2018,Italian (Mediterranean/Southern European),Male-only,Male,204,1.663,0.1213,Low RoB,Italy,Europe,FALSE
+35,Gualdi-Russo (F),2018,Italian (Mediterranean/Southern European),Female-only,Female,140,1.899,0.1452,Low RoB,Italy,Europe,FALSE
+37,Kavyashree (M),2018,"South Indian (Tumkur, Karnataka)",Male-only,Male,163,1.5826,0.1124,Unclear,India,South Asia,TRUE
+38,Kavyashree (F),2018,"South Indian (Tumkur, Karnataka)",Female-only,Female,186,1.0734,0.1146,Unclear,India,South Asia,TRUE
+39,Elhosary (Egyptian M),2018,"Egyptian (Mediterranean/North African, sub-group of Caucasian race per Baum 2006 classification cited by authors)",Male-only,Male,50,2.145,0.191,Unclear,Egypt,Middle East/North Africa,FALSE
+40,Elhosary (Egyptian F),2018,"Egyptian (Mediterranean/North African, sub-group of Caucasian race per Baum 2006 classification cited by authors)",Female-only,Female,50,2.375,0.2448,Unclear,Egypt,Middle East/North Africa,FALSE
+41,Elhosary (Bengali M),2018,"Bengali (Indo-Aryan ethnic group, Bangladesh/West Bengal origin; sample recruited among expatriates in Hail, Saudi Arabia)",Male-only,Male,50,1.87,0.1766,Unclear,Bangladesh,South Asia,FALSE
+42,Elhosary (Bengali F),2018,"Bengali (Indo-Aryan ethnic group, Bangladesh/West Bengal origin; sample recruited among expatriates in Hail, Saudi Arabia)",Female-only,Female,50,1.473,0.1246,Unclear,Bangladesh,South Asia,FALSE
+47,"Chay (Group1-Dzemul, M)",2018,"Maya (Yucatecan, rural; Dzemul community, near Classic-period Maya sites)",Male-only,Male,37,2.5133,0.3042,Low RoB,Mexico,Latin America,FALSE
+48,"Chay (Group1-Dzemul, F)",2018,"Maya (Yucatecan, rural; Dzemul community, near Classic-period Maya sites)",Female-only,Female,63,2.558,0.2389,Low RoB,Mexico,Latin America,FALSE
+49,"Chay (Group2-Merida, M)",2018,"Maya (Yucatecan, urban; Merida, ethnically/culturally mixed regional capital)",Male-only,Male,45,2.6557,0.1861,Low RoB,Mexico,Latin America,FALSE
+50,"Chay (Group2-Merida, F)",2018,"Maya (Yucatecan, urban; Merida, ethnically/culturally mixed regional capital)",Female-only,Female,24,2.849,0.3764,Unclear,Mexico,Latin America,FALSE
+57,Algotar et al (M),2020,"Gujarati (Surendranagar) — distinct city/institution from the already-included Algotar et al. 2014 Gujarati (Ahmedabad) sample (models 20-21); despite the similar author surname and Gujarat setting, this is a separate study (different year, institution, and N)",Male-only,Male,400,1.562,0.01875,Low RoB,India,South Asia,FALSE
+58,Algotar et al (F),2020,"Gujarati (Surendranagar) — distinct city/institution from the already-included Algotar et al. 2014 Gujarati (Ahmedabad) sample (models 20-21); despite the similar author surname and Gujarat setting, this is a separate study (different year, institution, and N)",Female-only,Female,400,2.256,0.04476,Low RoB,India,South Asia,FALSE
+60,Saco-Ledo et al,2020,Spanish (Barcelona/Catalonia),Female-only,Female,185,2.21,0.1109,Low RoB,Spain,Europe,FALSE
+61,Saco-Ledo et al (M),2019,Spanish Caucasian (Barcelona/A Coruna; study group),Male-only,Male,249,3.29,0.0871,Low RoB,Spain,Europe,FALSE
+66,Moitra (M),2019,"West Bengal, Indian (Kamarhati/Kolkata catchment; relatives of patients, students, staff of a Government Medical College)",Male-only,Male,200,1.24,0.15059,Low RoB,India,South Asia,FALSE
+67,Moitra (F),2019,"West Bengal, Indian (Kamarhati/Kolkata catchment; relatives of patients, students, staff of a Government Medical College)",Female-only,Female,200,0.341,0.10624,Low RoB,India,South Asia,FALSE
+72,Tiwari & Datta (M),2022,"South Indian (rural Mangalore/Dakshin Karnataka, Harekela town, Yenepoya Medical College catchment)",Male-only,Male,249,4.923,0.368,Low RoB,India,South Asia,FALSE
+73,Tiwari & Datta (F),2022,"South Indian (rural Mangalore/Dakshin Karnataka, Harekela town, Yenepoya Medical College catchment)",Female-only,Female,251,1.262,0.147,Low RoB,India,South Asia,FALSE
+74,Banyeh et al (M),2022,"Ghanaian (Tamale, Northern Ghana, University for Development Studies)",Male-only,Male,48,1.288,0.2704,Low RoB,Ghana,Sub-Saharan Africa,FALSE
+75,Banyeh et al (F),2022,"Ghanaian (Tamale, Northern Ghana, University for Development Studies)",Female-only,Female,65,1.458,0.2826,Low RoB,Ghana,Sub-Saharan Africa,FALSE
+77,Ahmed & Sreenivasan (F),2021,"Tamil (Kelambakkam, Tamil Nadu, India)",Female-only,Female,115,3.36,0.2272,Low RoB,India,South Asia,FALSE
+79,Arifi et al (M),2021,"Kosovan, Eastern Region (Ferizaj & Gjilan districts, Kosovo)",Male-only,Male,185,1.6357,0.1336,Low RoB,Kosovo,Europe,FALSE
+80,Arifi et al (F),2021,"Kosovan, Eastern Region (Ferizaj & Gjilan districts, Kosovo)",Female-only,Female,179,1.6917,0.1474,Low RoB,Kosovo,Europe,FALSE
+83,Okwan et al (F),2025,Ewe (Ghana; ethnic minority within Kumasi/Asante-majority region),Female-only,Female,41,3.585,0.4365,Low RoB,Ghana,Sub-Saharan Africa,FALSE
+84,Enakpoya et al (M),2023,"Urhobo (Delta State, South-South Nigeria)",Male-only,Male,144,2.82,0.1385,Low RoB,Nigeria,Sub-Saharan Africa,FALSE
+85,Enakpoya et al (F),2023,"Urhobo (Delta State, South-South Nigeria)",Female-only,Female,206,2.52,0.1459,Low RoB,Nigeria,Sub-Saharan Africa,FALSE
+87,Sajeevan et al (M),2023,"Indian, Maharashtra (Ambajogai/Beed district, rural)",Male-only,Male,56,1.7037,0.1989,Low RoB,India,South Asia,FALSE
+88,Sajeevan et al (F),2023,"Indian, Maharashtra (Ambajogai/Beed district, rural)",Female-only,Female,44,1.6965,0.2248,Low RoB,India,South Asia,FALSE
+90,Pandey et al (M),2025,"Nepalese (Devdaha Medical College, Rupandehi)",Male-only,Male,87,1.352,0.1624,Low RoB,Nepal,South Asia,FALSE
+91,Pandey et al (F),2025,"Nepalese (Devdaha Medical College, Rupandehi)",Female-only,Female,80,1.431,0.1876,Low RoB,Nepal,South Asia,FALSE
+96,Jha et al (M),2025,"North Indian (Faridabad, Haryana; medical students and working professionals)",Male-only,Male,82,1.84,0.1498,Low RoB,India,South Asia,FALSE
+97,Jha et al (F),2025,"North Indian (Faridabad, Haryana; medical students and working professionals)",Female-only,Female,82,2.17,0.2052,Low RoB,India,South Asia,FALSE
+100,Sreenivasan & Nawaz Ahmed (M),2021,"Tamil (Kelambakkam, Tamil Nadu, India)",Male-only,Male,120,2.5,0.2083,Low RoB,India,South Asia,FALSE
