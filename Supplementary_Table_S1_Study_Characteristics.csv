@@ -1,0 +1,100 @@
+Model,Study (sex),Ref.,Year,Country,Population / ethnic group,N,Age (years),Side,SD stature (cm),SD tibial length (cm),Intercept (a),Slope (b),SE(b),R-squared,SEE (cm),RoB (analysis domain),In primary analysis,In meta-regression
+1,Duyar,15,2003,Turkey,Turkish,121,18.0–34.3,NR,9.139,3.015,67.868†,2.738,0.1194,0.816,3.935,Low,Yes,Yes
+2,Bhavna (M),16,2008,India,"Indian (Shia Muslim, Delhi)",503,20–40,Left,5.69,1.91,84.74,2.27,0.0854,NR,3.67,High,No,Yes
+3,Bhavna (F),16,2008,India,"Indian (Shia Muslim, Delhi)",508,20–40,Left,4.91,1.5,75.66,2.34,0.1011,NR,3.42,Unclear,Yes,Yes
+4,Kaore (M),17,2012,India,"Indian (Raichur, Karnataka region)",200,18–21,Right,6.28,2.73,104.42,1.836,0.0985,0.636,NR,Low,Yes,Yes
+5,Kaore (F),17,2012,India,"Indian (Raichur, Karnataka region)",200,18–21,Right,6.28,2.76,102.16,1.678,0.1094,0.543,NR,Low,Yes,Yes
+6,Ebeye (M),18,2012,Nigeria,Urhobo (Nigerian),338,18–30,Left,NR,NR,127.762,1.25,0.1052,NR,7.2134,High,No,Yes
+7,Ebeye (F),18,2012,Nigeria,Urhobo (Nigerian),296,18–30,Left,NR,NR,105.791,1.63,0.2647,NR,5.309,High,No,Yes
+8,Trivedi (M),19,2014,India,"Indian (Gwalior, Madhya Pradesh)",270,18–21,Bilateral avg,NR,2.451,105.971,1.53,0.1939,0.189,7.452,Low,Yes,Yes
+9,Trivedi (F),19,2014,India,"Indian (Gwalior, Madhya Pradesh)",270,18–21,Bilateral avg,NR,2.429,103.76,1.43,0.116,0.362,4.69,Low,Yes,Yes
+10,Gupta,20,2014,India,"Indian (North Indian, Kanpur, Uttar Pradesh)",150,18–24,Right,6.5,2.06,80.03,2.37,0.1718,0.5701,NR,Low,Yes,Yes
+11,Sah (M),21,2014,Nepal,Nepalese (Birgunj),150,20–30,Right,7.81,2.16,88.898,2.027,0.2452,0.315,6.479,Low,Yes,Yes
+12,Sah (F),21,2014,Nepal,Nepalese (Birgunj),150,20–30,Right,5.61,1.75,75.954,2.253,0.1837,0.495,3.99,Low,Yes,Yes
+13,Meitei,22,2014,India,"Maring (scheduled tribe, Manipur, India)",500,18–40,NR,4.71,1.68,81.998,2.33,0.0611,NR,3.08,High,No,Yes
+14,Ahmed (M),23,2013,Sudan,Sudanese Arab,80,25–30,Left,5.72,2.09,80.59,2.27,0.1734,0.687,3.22,High,No,Yes
+15,Ahmed (F),23,2013,Sudan,Sudanese Arab,80,25–30,Left,5.49,2.05,76.44,2.19,0.1731,0.673,3.15,High,No,Yes
+16,Chandravadiya (M),24,2013,India,"Indian (Gujarati, Bhavnagar)",110,18–23,Right,6.34,2.08,74.519,2.548,0.1609,0.699,NR,Low,Yes,Yes
+17,Chandravadiya (F),24,2013,India,"Indian (Gujarati, Bhavnagar)",100,18–23,Right,6.75,2.06,82.471,2.258,0.2393,0.475,NR,Low,Yes,Yes
+18,Jaiswal (M),25,2013,India,"Santhal (scheduled tribe, Odisha, India)",205,18–48,Left,6.632,2.398,93.303†,2.05,0.1308,0.55,5.522,Unclear,Yes,Yes
+19,Jaiswal (F),25,2013,India,"Santhal (scheduled tribe, Odisha, India)",111,18–48,Left,6.446,2.215,80.5442†,2.312,0.1719,0.63,3.934,Unclear,Yes,Yes
+20,Algotar (M),26,2014,India,"Indian (Gujarati, Ahmedabad)",260,17–50,Left,8.098,5.05,108.52,1.571,0.0199,0.96,1.623,High,No,Yes
+21,Algotar (F),26,2014,India,"Indian (Gujarati, Ahmedabad)",240,17–50,Left,8.427,3.56,79.88,2.231,0.0515,0.887,2.839,High,No,Yes
+22,Khatun (M),27,2016,India,"Indian (Moradabad, Uttar Pradesh)",200,17–24,NR,6.3,1.98,67.08,2.75,0.116,0.74,NR,Low,Yes,Yes
+23,Khatun (F),27,2016,India,"Indian (Moradabad, Uttar Pradesh)",200,17–24,NR,6.17,1.82,58.11,2.88,0.1268,0.72,NR,Low,Yes,Yes
+24,Saiyed (M),28,2016,India,"Indian (Gujarati, Ahmedabad)",116,17–30,Left,6.51,2.96,105.67,1.66,0.1371,0.57,5.29,Low,Yes,Yes
+25,Saiyed (F),28,2016,India,"Indian (Gujarati, Ahmedabad)",84,17–30,Left,6.34,2.18,76.56,2.31,0.198,0.63,6.76,Low,Yes,Yes
+26,Esomonu (M),29,2016,Nigeria,"Bekwara (Nigerian ethnic group, Cross River State)",300,21–45,Left,6.88,2.31,-64.78,5.289,0.4474,0.319,5.686,Low,Yes,Yes
+27,Esomonu (F),29,2016,Nigeria,"Bekwara (Nigerian ethnic group, Cross River State)",300,21–45,Left,6.06,2.83,-23.28,4.23,0.4166,0.257,5.2325,Low,Yes,Yes
+28,Joshi (M),30,2016,India,"Indian (Punjabi, Malwa region)",150,18–24,Bilateral avg,6.632,2.464,80.16,2.26,0.119,0.709,6.837,Low,Yes,Yes
+29,Joshi (F),30,2016,India,"Indian (Punjabi, Malwa region)",150,18–24,Bilateral avg,5.077,2.242,93.302,1.647,0.1256,0.531,6.816,Low,Yes,Yes
+30,Banerjee (M),31,2015,India,"Indian (Bengali, southern West Bengal)",50,25–64,Left,7.685,2.763,71.361,2.575,0.1515,0.857,2.943,Low,Yes,Yes
+31,Banerjee (F),31,2015,India,"Indian (Bengali, southern West Bengal)",50,25–55,Left,6.107,2.152,65.344,2.691,0.1304,0.899,1.974,Low,Yes,Yes
+32,Sheikhazadi (M),32,2015,Iran,Iranian (Tehran),50,20–25,Right,6.6,2.9,97,2.0,0.1713,0.811,2.899,High,No,Yes
+33,Sheikhazadi (F),32,2015,Iran,Iranian (Tehran),50,20–25,Right,4.9,2.01,110.8,1.4,0.2004,0.632,3.003,High,No,Yes
+34,Gualdi-Russo (M),33,2018,Italy,Italian (Mediterranean/Southern European),204,19.9–34.4,Left,7,2.9,111.39,1.663,0.1213,0.471,5.01,Low,Yes,Yes
+35,Gualdi-Russo (F),33,2018,Italy,Italian (Mediterranean/Southern European),140,19.9–34.4,Left,6.8,2.7,94.45,1.899,0.1452,0.568,4.62,Low,Yes,Yes
+36,Gualdi-Russo (Combined),33,2018,Italy,Italian (Mediterranean/Southern European),280,19.9–34.4,Left,34,34,80.01,2.366,0.112,0.616,6.01,Low,No,No – re-uses participants of models 34–35
+37,Kavyashree (M),34,2018,India,"South Indian (Tumkur, Karnataka)",163,17–22,Bilateral avg,6.8,3.21,109.885,1.5826,0.1124,0.5464,4.592,Unclear,Yes,Yes
+38,Kavyashree (F),34,2018,India,"South Indian (Tumkur, Karnataka)",186,17–22,Bilateral avg,6.18,3.28,122.385,1.0734,0.1146,0.3191,5.1139,Unclear,Yes,Yes
+39,Elhosary (Egyptian M),35,2018,Egypt,Egyptian,50,>21,Left,6.73,2.67,94.08,2.145,0.191,0.724,3.57,Unclear,Yes,Yes
+40,Elhosary (Egyptian F),35,2018,Egypt,Egyptian,50,>21,Left,6.63,2.27,76.617,2.375,0.2448,0.663,3.89,Unclear,Yes,Yes
+41,Elhosary (Bengali M),35,2018,Bangladesh,"Bengali (expatriates in Hail, Saudi Arabia)",50,>21,Left,5.3,2.37,92.5,1.87,0.1766,0.699,2.93,Unclear,Yes,Yes
+42,Elhosary (Bengali F),35,2018,Bangladesh,"Bengali (expatriates in Hail, Saudi Arabia)",50,>21,Left,4.68,2.74,105.563,1.473,0.1246,0.744,2.39,Unclear,Yes,Yes
+43,Gardasevic (M),36,2019,Kosovo,"Kosovan (Western Region, Dinaric Alps population)",338,18–20,NR,5.99,3.01,135.43,1.0708,0.0916,0.299,5.064,High,No,Yes
+44,Gardasevic (F),36,2019,Kosovo,"Kosovan (Western Region, Dinaric Alps population)",326,18–20,NR,5.23,2.52,122.64,1.1602,0.0924,0.359,4.195,High,No,Yes
+45,Sangwan (M),37,2018,India,"Punjabi (Malwa region, Punjab, India)",200,20–25,Bilateral avg,6.9,2.1,55.75,2.78,0.1245,0.716,3.688,High,No,Yes
+46,Sangwan (F),37,2018,India,"Punjabi (Malwa region, Punjab, India)",200,20–25,Bilateral avg,7.56,2.45,62.37,2.53,0.1256,0.672,4.339,High,No,Yes
+47,"Chay (Group1-Dzemul, M)",38,2018,Mexico,"Maya (Yucatecan, rural; Dzemul)",37,21–45,NR,6.38,2.06,71.1658†,2.5133,0.3042,0.6608,3.76,Low,Yes,Yes
+48,"Chay (Group1-Dzemul, F)",38,2018,Mexico,"Maya (Yucatecan, rural; Dzemul)",63,21–45,NR,4.94,1.56,63.196†,2.558,0.2389,0.654,2.935,Low,Yes,Yes
+49,"Chay (Group2-Merida, M)",38,2018,Mexico,"Maya (Yucatecan, urban; Mérida)",45,21–45,NR,6.22,2.13,66.357†,2.6557,0.1861,0.8256,2.63,Low,Yes,Yes
+50,"Chay (Group2-Merida, F)",38,2018,Mexico,"Maya (Yucatecan, urban; Mérida)",24,21–45,NR,5.31,1.59,55.7162†,2.849,0.3764,0.7385,2.87,Unclear,Yes,Yes
+51,Armah (M),39,2018,Ghana,Ghanaian (genetically homogeneous population per authors),55,18–43,Right,6.1,2.53,105.17,1.75,0.2294,0.52,4.266,High,No,Yes
+52,Armah (F),39,2018,Ghana,Ghanaian (genetically homogeneous population per authors),45,18–43,Right,4.92,2,105.11,1.58,0.2857,0.42,3.79,High,No,Yes
+54,Lemtur (M),40,2017,India,"Naga (Nagaland, Northeast India)",50,19–35,Left,5.48,2.24,101.85,1.81,0.2379,0.5476,3.73,High,No,Yes
+55,Lemtur (F),40,2017,India,"Naga (Nagaland, Northeast India)",50,19–35,Left,5.41,1.93,77.86,2.36,0.2176,0.7106,2.94,High,No,Yes
+56,Poudel & Satyal (M),41,2017,Nepal,Nepalese (Nepalgunj),151,18–24,Right,7.02,2.052,68.922,2.734,0.1689,0.791,4.245,High,No,Yes
+57,Algotar et al (M),42,2020,India,"Indian (Gujarati, Surendranagar)",400,18–25,Right,7.1598,4.4797,108.98,1.562,0.0187,0.945,1.6779,Low,Yes,Yes
+58,Algotar et al (F),42,2020,India,"Indian (Gujarati, Surendranagar)",400,18–25,Right,7.5846,3.1258,79,2.256,0.0448,0.865,2.7946,Low,Yes,Yes
+59,Bridge et al,43,2020,Australia,"Australian-born, predominantly European ancestry",60,18–59,Right,6.69,2.24,83.983,2.255,0.2207,0.607,3.7969,High,No,Yes
+60,Saco-Ledo et al,44,2020,Spain,Spanish (Barcelona/Catalonia),185,18–55,Right,6.1,2.3,82.4,2.21,0.1109,0.68,3.46,Low,Yes,Yes
+61,Saco-Ledo et al (M),45,2019,Spain,Spanish Caucasian (Barcelona/A Coruna; study group),249,18–55,Right,6.8,2.4,48,3.29,0.0871,0.77,3.268,Low,Yes,Yes
+62,Sume (M),46,2019,Ethiopia,Ethiopian (Debre Markos University students),286,18–26,Right,5.9,3.27,125.93,1.15,0.0826,0.402,4.57,High,No,Yes
+63,Sume (F),46,2019,Ethiopia,Ethiopian (Debre Markos University students),286,18–26,Right,4.014,3.37,154.48,0.31,0.0682,0.067,3.884,High,No,Yes
+64,Gardasevic (M),47,2019,Kosovo,"Kosovan (national sample, final-year high-school students)",830,18–20,Right,5.96,2.9,131.28,1.2002,0.058,0.341,4.841,High,No,"No – overlaps regional samples (43–44, 79–80)"
+65,Gardasevic (F),47,2019,Kosovo,"Kosovan (national sample, final-year high-school students)",793,18–20,Right,4.93,2.41,122.58,1.1824,0.0593,0.334,4.026,High,No,"No – overlaps regional samples (43–44, 79–80)"
+66,Moitra (M),48,2019,India,"Indian (West Bengal, Kamarhati/Kolkata)",200,18–35,Left,7.059,2.8755,123,1.24,0.1506,0.255,6.109,Low,Yes,Yes
+67,Moitra (F),48,2019,India,"Indian (West Bengal, Kamarhati/Kolkata)",200,18–35,Left,5.5567,3.6234,146,0.341,0.1062,0.0493,5.432,Low,Yes,Yes
+68,Ghosh & Konar (M),49,2019,India,"Bengali, Indian (Burdwan/Raiganj)",260,20–59,Right,7.76,3.06,77.74,2.38,0.0539,0.8836,2.65,High,No,Yes
+69,Ghosh & Konar (F),49,2019,India,"Bengali, Indian (Burdwan/Raiganj)",210,20–49,Right,7.6,2.65,69,2.69,0.0678,0.8836,2.6,High,No,Yes
+70,Susanti et al (M),50,2020,Indonesia,"Mentawai, Indonesia (Sipora Island)",73,≥20,NR,5.98,4.06,130.488,0.934,0.1312,0.457,4.44,High,No,Yes
+71,Susanti et al (F),50,2020,Indonesia,"Mentawai, Indonesia (Sipora Island)",128,≥20,NR,5.63,3.91,129.423,0.681,0.0815,0.2591,4.87,High,No,Yes
+72,Tiwari & Datta (M),51,2022,India,South Indian (rural Dakshin Karnataka),249,22–40,Right,7.56,1,-19.819,4.923,0.368,0.42,5.795,Low,Yes,Yes
+73,Tiwari & Datta (F),51,2022,India,South Indian (rural Dakshin Karnataka),251,22–40,Right,5.21,1.97,109.023,1.262,0.147,0.228,4.579,Low,Yes,Yes
+74,Banyeh et al (M),52,2022,Ghana,"Ghanaian (Tamale, Northern Ghana, University for Development Studies)",48,18–30,Left,7.94,3.71,117.165,1.288,0.2704,0.315,6.642,Low,Yes,Yes
+75,Banyeh et al (F),52,2022,Ghana,"Ghanaian (Tamale, Northern Ghana, University for Development Studies)",65,18–30,Left,6.3,2.17,102.011,1.458,0.2826,0.314,5.259,Low,Yes,Yes
+76,Ahmed (M),53,2022,Saudi Arabia,Saudi Arabian (Riyadh),100,18–24,Right,6.16,2.39,87.1,2.14,0.1463,0.684,3.48,High,No,Yes
+77,Ahmed & Sreenivasan (F),54,2021,India,"Tamil (Kelambakkam, Tamil Nadu, India)",115,21–30,Right,4.2,1.01,44.03,3.36,0.2272,0.665,2.442,Low,Yes,Yes
+78,Devi et al (F),55,2021,India,"Meitei (Imphal, Manipur, India)",75,21–25,Right,7.88,2.46,107.83,0.6,0.2999,0.36,6.35,High,No,Yes
+79,Arifi et al (M),56,2021,Kosovo,"Kosovan, Eastern Region (Ferizaj & Gjilan districts, Kosovo)",185,18–19,NR,6.07,2.49,115.68,1.6357,0.1336,0.4503,4.514,Low,Yes,Yes
+80,Arifi et al (F),56,2021,Kosovo,"Kosovan, Eastern Region (Ferizaj & Gjilan districts, Kosovo)",179,18–19,NR,4.89,1.85,104.99,1.6917,0.1474,0.4096,3.768,Low,Yes,Yes
+81,Mokhtari et al (M),57,2021,Iran,"Iranian, northern Iran (Babol)",250,20–40,Right,11.98,1.33,38.93,3.54,0.1396,0.568,2.93,High,No,Yes
+82,Mokhtari et al (F),57,2021,Iran,"Iranian, northern Iran (Babol)",250,20–40,Right,10.11,1.01,87.91,2.04,0.1472,0.667,2.346,High,No,Yes
+83,Okwan et al (F),58,2025,Ghana,Ewe (Ghana; ethnic minority within Kumasi/Asante-majority region),41,20–25,Right,NR,0.97,26.521,3.585,0.4365,0.636,2.6779,Low,Yes,Yes
+84,Enakpoya et al (M),59,2023,Nigeria,"Urhobo (Delta State, South-South Nigeria)",144,18–30,Right,8.56,2.62,60.15,2.82,0.1385,0.7396,4.34,Low,Yes,Yes
+85,Enakpoya et al (F),59,2023,Nigeria,"Urhobo (Delta State, South-South Nigeria)",206,18–30,Right,8.14,2.49,69.17,2.52,0.1459,0.5929,5.2,Low,Yes,Yes
+86,Mundane et al (F),60,2023,India,"Indian, Maharashtra (12 districts, pooled)",150,18–24,Right,NR,NR,80.146,2.2967,NR,0.5982,NR,Low,No,No – SE(b) not derivable
+87,Sajeevan et al (M),61,2023,India,"Indian, Maharashtra (Ambajogai/Beed district, rural)",56,22–25,Right,5.86,2.6,98.693,1.7037,0.1989,0.5796,3.835,Low,Yes,Yes
+88,Sajeevan et al (F),61,2023,India,"Indian, Maharashtra (Ambajogai/Beed district, rural)",44,22–25,Right,6.01,2.69,93.039,1.6965,0.2248,0.5748,3.965,Low,Yes,Yes
+89,Dhidharia et al (M),62,2025,India,"Indian, Rajasthan (Udaipur)",200,17–24,Left,2.57,1.98,71.361,2.575,0.1054,0.6,2.57,High,No,Yes
+90,Pandey et al (M),63,2025,Nepal,"Nepalese (Devdaha Medical College, Rupandehi)",87,18–26,Right,5.389,2.6706,116.702,1.352,0.1624,0.449,4.024,Low,Yes,Yes
+91,Pandey et al (F),63,2025,Nepal,"Nepalese (Devdaha Medical College, Rupandehi)",80,18–26,Right,7.603,3.4722,107.479,1.431,0.1876,0.427,5.792,Low,Yes,Yes
+92,Elnady et al (M),64,2025,Egypt,Egyptian (Menoufia governorate),180,21–40,Left,5.88,2.28,122.499,1.29,0.1674,0.25,5.107,High,No,Yes
+93,Elnady et al (F),64,2025,Egypt,Egyptian (Menoufia governorate),207,21–40,Left,5.63,2.37,107.832,1.4,0.134,0.3481,4.557,High,No,Yes
+94,Salawu et al (M),65,2025,Nigeria,"Nigerian, multiple major ethnic groups (Lagos)",130,18–65,Right,5.167,2.9,112.81,1.543,0.0787,0.75,2.594,High,No,Yes
+95,Salawu et al (F),65,2025,Nigeria,"Nigerian, multiple major ethnic groups (Lagos)",125,18–65,Right,4.581,3.1,116.97,1.203,0.0774,0.663,2.67,High,No,Yes
+96,Jha et al (M),66,2025,India,"North Indian (Faridabad, Haryana)",82,18–55,Right,5.67,2.49,98.07,1.84,0.1498,0.657,3.316,Low,Yes,Yes
+97,Jha et al (F),66,2025,India,"North Indian (Faridabad, Haryana)",82,18–55,Right,6.25,2.2,77.08,2.17,0.2052,0.584,4.012,Low,Yes,Yes
+98,Didia et al (M),67,2009,Nigeria,"Nigerian (Port Harcourt, Rivers State)",96,NR,NR,6.49,4.5,46.8421,2.9289,0.1383,0.827,NR,High,No,Yes
+99,Didia et al (F),67,2009,Nigeria,"Nigerian (Port Harcourt, Rivers State)",104,NR,NR,5.9,3.97,67.2502,2.3265,0.2275,0.506,NR,High,No,Yes
+100,Sreenivasan & Nawaz Ahmed (M),68,2021,India,"Tamil (Kelambakkam, Tamil Nadu, India)",120,21–30,Right,3.9,1.161,76.44,2.5,0.2083,0.55,2.638,Low,Yes,Yes

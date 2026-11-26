@@ -1,0 +1,100 @@
+model,author_sex,study,validation,method_as_reported
+1,Duyar,Duyar 2003,Internal,"Split-sample: formula derived on study group (n=121), tested on separate control group (n=110) from same source population. External validation error (control group, general formula): mean bias = -0.98 mm, SD = 36.32 mm, RMSE (derived: sqrt(mean^2+SD^2)) = 36.33 mm."
+2,Bhavna (M),Bhavna 2008,None reported,No information
+3,Bhavna (F),Bhavna 2008,None reported,No information
+4,Kaore (M),Kaore 2012,None reported,No information
+5,Kaore (F),Kaore 2012,None reported,No information
+6,Ebeye (M),Ebeye 2012,None reported,No information
+7,Ebeye (F),Ebeye 2012,None reported,No information
+8,Trivedi (M),Trivedi 2014,None reported,No information
+9,Trivedi (F),Trivedi 2014,None reported,No information
+10,Gupta,Gupta 2014,None reported,No information
+11,Sah (M),Sah 2014,None reported,No information
+12,Sah (F),Sah 2014,None reported,No information
+13,Meitei,Meitei 2014,None reported,No information
+14,Ahmed (M),Ahmed 2013,None reported,No information
+15,Ahmed (F),Ahmed 2013,None reported,No information
+16,Chandravadiya (M),Chandravadiya 2013,None reported,No information
+17,Chandravadiya (F),Chandravadiya 2013,None reported,No information
+18,Jaiswal (M),Jaiswal 2013,Measurement reliability only,"Intraobserver error test performed on randomly selected 10% of sample (positive methodological feature); Table 5 shows test-retest stature differences using trochanteric height and lower leg length equations, not statistically significant (P<0.05 threshold not met)"
+19,Jaiswal (F),Jaiswal 2013,Measurement reliability only,Intraobserver error test performed on randomly selected 10% of sample; Table 5 shows test-retest stature differences not statistically significant
+20,Algotar (M),Algotar 2014,None reported,No information
+21,Algotar (F),Algotar 2014,None reported,No information
+22,Khatun (M),Khatun 2016,None reported,No information
+23,Khatun (F),Khatun 2016,None reported,No information
+24,Saiyed (M),Saiyed 2016,None reported,No information
+25,Saiyed (F),Saiyed 2016,None reported,No information
+26,Esomonu (M),Esomonu 2016,None reported,No information
+27,Esomonu (F),Esomonu 2016,None reported,No information
+28,Joshi (M),Joshi 2016,None reported,No information
+29,Joshi (F),Joshi 2016,None reported,No information
+30,Banerjee (M),Banerjee 2015,None reported,No information
+31,Banerjee (F),Banerjee 2015,None reported,No information
+32,Sheikhazadi (M),Sheikhazadi 2015,None reported,No information
+33,Sheikhazadi (F),Sheikhazadi 2015,None reported,No information
+34,Gualdi-Russo (M),Gualdi-Russo 2018,Internal,"External validation on independent holdout sample (n=15 males) from same population; Wilcoxon matched-pairs test, mean/median absolute error, PPE"
+35,Gualdi-Russo (F),Gualdi-Russo 2018,Internal,"External validation on independent holdout sample (n=15 females) from same population; Wilcoxon matched-pairs test, mean/median absolute error, PPE"
+36,Gualdi-Russo (Combined),Gualdi-Russo 2018,Internal,"External validation on full holdout sample (n=30, mixed sex) from same population; Wilcoxon matched-pairs test, mean/median absolute error, PPE"
+37,Kavyashree (M),Kavyashree 2018,None reported,None reported (no holdout/external validation)
+38,Kavyashree (F),Kavyashree 2018,None reported,None reported (no holdout/external validation)
+39,Elhosary (Egyptian M),Elhosary 2018,Comparison with published equations in the derivation sample,"Compared against common literature equations (Pearson, Trotter-Gleser 1/2, Patel, Joshi) on the same derivation sample using Friedman test"
+40,Elhosary (Egyptian F),Elhosary 2018,Comparison with published equations in the derivation sample,"Compared against common literature equations (Pearson, Trotter-Gleser 1/2, Patel, Joshi) on the same derivation sample using Friedman test"
+41,Elhosary (Bengali M),Elhosary 2018,Comparison with published equations in the derivation sample,"Compared against common literature equations (Pearson, Trotter-Gleser 1/2, Patel, Joshi) on the same derivation sample using Friedman test"
+42,Elhosary (Bengali F),Elhosary 2018,Comparison with published equations in the derivation sample,"Compared against common literature equations (Pearson, Trotter-Gleser 1/2, Patel, Joshi) on the same derivation sample using Friedman test"
+43,Gardasevic (M),Gardasevic 2019,None reported,None reported
+44,Gardasevic (F),Gardasevic 2019,None reported,None reported
+45,Sangwan (M),Sangwan 2018,None reported,None reported
+46,Sangwan (F),Sangwan 2018,None reported,None reported
+47,"Chay (Group1-Dzemul, M)",Chay 2018,Comparison of coefficients between two samples,"Cross-validated against Group 2 (Merida, n=45 M) using jointly-constructed 95% confidence intervals for both regression parameters; intervals overlapped, supporting shared underlying model"
+48,"Chay (Group1-Dzemul, F)",Chay 2018,Comparison of coefficients between two samples,"Cross-validated against Group 2 (Merida, n=24 F per regression table) using jointly-constructed 95% confidence intervals; intervals overlapped"
+49,"Chay (Group2-Merida, M)",Chay 2018,Comparison of coefficients between two samples,Cross-validated against Group 1 (Dzemul) using jointly-constructed 95% confidence intervals; intervals overlapped
+50,"Chay (Group2-Merida, F)",Chay 2018,Comparison of coefficients between two samples,Cross-validated against Group 1 (Dzemul) using jointly-constructed 95% confidence intervals; intervals overlapped
+51,Armah (M),Armah 2018,None reported,None reported (no holdout/external validation)
+52,Armah (F),Armah 2018,None reported,None reported (no holdout/external validation)
+54,Lemtur (M),Lemtur 2017,None reported,None reported
+55,Lemtur (F),Lemtur 2017,None reported,None reported
+56,Poudel & Satyal (M),Poudel 2017,None reported,None reported
+57,Algotar et al (M),Algotar 2020,None reported,None reported
+58,Algotar et al (F),Algotar 2020,None reported,None reported
+59,Bridge et al,Bridge 2020,None reported,None reported
+60,Saco-Ledo et al,Saco-Ledo 2020,Internal,"Split-sample: general equation derived on calibration group (n=185), tested on an independent, randomized validation group (n=166) from the same source sample"
+61,Saco-Ledo et al (M),Saco-Ledo 2019,Internal,External validation using an independent cross-validation group (n=246) drawn from the same overall randomized sample
+62,Sume (M),Sume 2019,Apparent performance only,Internal validation via paired t-test comparing estimated vs. actual height within the same derivation sample (not an independent holdout)
+63,Sume (F),Sume 2019,Apparent performance only,Internal validation via paired t-test comparing estimated vs. actual height within the same derivation sample (not an independent holdout)
+64,Gardasevic (M),Gardasevic 2019,None reported,None reported
+65,Gardasevic (F),Gardasevic 2019,None reported,None reported
+66,Moitra (M),Moitra 2019,None reported,None reported
+67,Moitra (F),Moitra 2019,None reported,None reported
+68,Ghosh & Konar (M),Ghosh 2019,None reported,None reported (no independent validation sample; internal statistical significance testing only)
+69,Ghosh & Konar (F),Ghosh 2019,None reported,None reported
+70,Susanti et al (M),Susanti 2020,None reported,None reported
+71,Susanti et al (F),Susanti 2020,None reported,None reported
+72,Tiwari & Datta (M),Tiwari 2022,None reported,None reported
+73,Tiwari & Datta (F),Tiwari 2022,None reported,None reported
+74,Banyeh et al (M),Banyeh 2022,Internal,"External validation using an independent, randomly-assigned holdout sample (40% of the total sample, held out prior to any model development)"
+75,Banyeh et al (F),Banyeh 2022,Internal,"External validation using an independent, randomly-assigned holdout sample (40% of the total sample, held out prior to any model development)"
+76,Ahmed (M),Ahmed 2022,None reported,"None reported (no independent holdout/validation sample; the study instead performed extensive external comparison of ITS OWN model's SD/effect-size against many other published populations via Cohen's d, which is a form of applicability benchmarking rather than internal model validation)"
+77,Ahmed & Sreenivasan (F),Ahmed 2021,None reported,None reported
+78,Devi et al (F),Devi 2021,None reported,None reported
+79,Arifi et al (M),Arifi 2021,None reported,None reported
+80,Arifi et al (F),Arifi 2021,None reported,None reported
+81,Mokhtari et al (M),Mokhtari 2021,None reported,None reported
+82,Mokhtari et al (F),Mokhtari 2021,None reported,None reported
+83,Okwan et al (F),Okwan 2025,None reported,None reported
+84,Enakpoya et al (M),Enakpoya 2023,Apparent performance only,"Comparison of estimated vs. actual stature performed on the study's own data (internal apparent-validation, not a held-out or cross-validated sample): mean difference=0.00 cm (t=0.00, p=1.000) for right tibia, general formula, across the whole studied population (combined). This is a within-sample consistency check, not true external/internal (split-sample or cross-validated) validation."
+85,Enakpoya et al (F),Enakpoya 2023,Apparent performance only,"Comparison of estimated vs. actual stature performed on the study's own data (internal apparent-validation, not a held-out or cross-validated sample): mean difference approx. -0.01 cm (t=0.00, p=0.998) for right tibia, general formula, across the whole studied population (combined). This is a within-sample consistency check, not true external/internal (split-sample or cross-validated) validation."
+86,Mundane et al (F),Mundane 2023,Apparent performance only,"Paper reports an informal validation: ""predicted height (y) obtained by randomly selecting femur length and tibial length values from the collected data... was found to be acceptable within a certain range of error... closely approximated the observed height"" -- this is a qualitative, non-quantified apparent-fit statement, not a formal validation with reported error metrics."
+87,Sajeevan et al (M),Sajeevan 2023,Apparent performance only,"Paper reports a formal apparent-fit check: calculated height (via the regression equation) vs. observed height compared using paired t-test on the whole sample -- for right tibia, males: calculated=168.88+/-4.43 cm vs. observed=168.95+/-5.86 cm, t=0.071, p=0.94 (no significant difference). This is a within-sample apparent-validation, not a held-out or cross-validated sample."
+88,Sajeevan et al (F),Sajeevan 2023,Apparent performance only,"Paper reports a formal apparent-fit check: calculated height (via the regression equation) vs. observed height compared using paired t-test on the whole sample -- for right tibia, females: calculated=158.12+/-2.01 cm vs. observed=158.11+/-6.01 cm, t=-0.01, p=0.991 (no significant difference). This is a within-sample apparent-validation, not a held-out or cross-validated sample."
+89,Dhidharia et al (M),Dhidharia 2025,None reported,None reported
+90,Pandey et al (M),Pandey 2025,None reported,No internal validation reported
+91,Pandey et al (F),Pandey 2025,None reported,No internal validation reported
+92,Elnady et al (M),Elnady 2025,None reported,No internal validation reported
+93,Elnady et al (F),Elnady 2025,None reported,No internal validation reported
+94,Salawu et al (M),Salawu 2025,None reported,No internal validation reported (external/cross-validation explicitly noted by authors as a limitation)
+95,Salawu et al (F),Salawu 2025,None reported,No internal validation reported (external/cross-validation explicitly noted by authors as a limitation)
+96,Jha et al (M),Jha 2025,None reported,No internal validation reported
+97,Jha et al (F),Jha 2025,None reported,No internal validation reported
+98,Didia et al (M),Didia 2009,None reported,No internal validation reported
+99,Didia et al (F),Didia 2009,None reported,No internal validation reported
+100,Sreenivasan & Nawaz Ahmed (M),Sreenivasan 2021,None reported,None reported

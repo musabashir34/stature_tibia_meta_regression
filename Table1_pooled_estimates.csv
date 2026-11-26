@@ -1,0 +1,7 @@
+"Model","k","Pooled_b_95CI","I2_pct"
+"Primary (high RoB excluded)",58,"2.181 (1.976-2.387)",97.87
+"+ Country moderator",58,"QM p = 0.021",97.5
+"+ Continent moderator",58,"QM p = 0.058",97.67
+"All-studies sensitivity",95,"2.055 (1.899-2.212)",98.45
+"+ Country moderator",95,"QM p = 0.046",98.32
+"+ Continent moderator",95,"QM p = 0.242",98.4

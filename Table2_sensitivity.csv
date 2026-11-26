@@ -1,0 +1,5 @@
+"Analysis","k","b","CI","tau2","I2","Q","p"
+"Full sample (all risk-of-bias levels)",95,2.055,"1.899 to 2.212",0.573,98.45,"3682.28 (94)","<0.0001"
+"Primary (high RoB excluded)",58,2.181,"1.976 to 2.387",0.6,97.87,"1627.46 (57)","<0.0001"
+"Low RoB only",48,2.226,"1.984 to 2.467",0.691,98.21,"1519.59 (47)","<0.0001"
+"Primary, excluding samples with lower age bound of 17 y",52,2.199,"1.978 to 2.421",0.625,97.95,"1439.23 (51)","<0.0001"
