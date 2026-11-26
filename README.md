@@ -1,6 +1,6 @@
 # Global regression coefficient for predicting stature from tibial length
 
-Data and code for the systematic review and meta-regression *"Global Regression Coefficient for Predicting Stature from Tibial Length: Evidence from Systematic Review and Meta-Regression"*. Anonymized copy for peer review; author details are withheld.
+Data and code for the systematic review and meta-regression *"Global Regression Coefficient for Predicting Stature from Tibial Length: A Systematic Review and Meta-Regression"*. Anonymized copy for peer review; author details are withheld.
 
 ## Reproducing the manuscript
 
