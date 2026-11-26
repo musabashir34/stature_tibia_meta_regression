@@ -1,5 +1,5 @@
 ---
-title: "Global Regression Coefficient for Predicting Stature from Tibial Length: Evidence from Systematic Review and Meta-Regression"
+title: "Global Regression Coefficient for Predicting Stature from Tibial Length: A Systematic Review and Meta-Regression"
 output:
   word_document:
     reference_docx: reference.docx
